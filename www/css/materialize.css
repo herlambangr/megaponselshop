@@ -4959,7 +4959,7 @@ small {
 .btn, .btn-large {
   text-decoration: none;
   color: #fff;
-  background-color: #1f75e2;
+  background-color: #a9cd0b;
   text-align: center;
   letter-spacing: .5px;
   transition: .2s ease-out;
@@ -4967,7 +4967,7 @@ small {
 }
 
 .btn:hover, .btn-large:hover {
-  background-color: #1f75e2;
+  background-color: #a9cd0b;
 }
 
 .btn-floating {
@@ -8479,11 +8479,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 .gradien_ungu{
     text-align: center;
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffaf4b+0,ff69b4+100 */
-background: #1f75e2; /* Old browsers */
-background: -moz-linear-gradient(-45deg, #1f75e2 0%, #0100fe 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(-45deg, #1f75e2 0%,#0100fe 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(135deg, #1f75e2 0%,#0100fe 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1f75e2', endColorstr='#0100fe',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+background: #a9cd0b; /* Old browsers */
 }
 .welcome {
     width: 100%;
